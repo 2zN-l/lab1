@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 # Есть словарь координат городов
 
 sites = {
@@ -16,8 +13,18 @@ distances = {}
 
 # TODO здесь заполнение словаря
 
-print(distances)
+for site1, coords1 in sites.items():
+    city_distances = {}
+    for site2, coords2 in sites.items():
+        if site1 != site2:
+            x1, y1 = coords1
+            x2, y2 = coords2
+            distance = ((x1 - x2) ** 2 + (y1 - y2) ** 2) ** 0.5
+            city_distances[site2] = round(distance,2)
+    
+    distances[site1] = city_distances
 
+print(distances)
 
 
 
