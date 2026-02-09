@@ -17,10 +17,22 @@ birds = ['rooster', 'ostrich', 'lark', ]
 #  и выведите список на консоль
 # TODO здесь ваш код
 
+zoo += birds
+print(zoo)
+
 # уберите слона
 #  и выведите список на консоль
 # TODO здесь ваш код
 
+zoo.remove('elephant')
+print(zoo)
+
 # выведите на консоль в какой клетке сидит лев (lion) и жаворонок (lark).
 # Номера при выводе должны быть понятны простому человеку, не программисту.
 # TODO здесь ваш код
+
+lion_cell = zoo.index('lion') + 1
+lark_cell = zoo.index('lark') + 1
+
+print(f"Лев сидит в клетке №{lion_cell}")
+print(f"Жаворонок сидит в клетке №{lark_cell}")
