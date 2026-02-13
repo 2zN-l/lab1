@@ -11,7 +11,7 @@
 ###### Результат:
 <img width="1500" height="60" alt="image" src="https://github.com/user-attachments/assets/97131b7d-0685-4b80-b1ea-97758d66353b" />
 
-
+<br>
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-
+<br>
 
 # ЗАДАНИЕ 02_operations.py
 --------
@@ -41,7 +41,7 @@
 <img width="900" height="54" alt="image" src="https://github.com/user-attachments/assets/29352136-54c1-400d-a00f-7f1495b43f4a" />
 
 
-
+<br>
 
 
 # ЗАДАНИЕ 03_favorite_movies.py
@@ -61,7 +61,7 @@
 
 
 
-
+<br>
 
 # ЗАДАНИЕ 04_my_family.py
 --------
@@ -76,7 +76,7 @@
 
 
 
-
+<br>
 
 # ЗАДАНИЕ 05_zoo.py
 --------
@@ -93,7 +93,7 @@
 
 
 
-
+<br>
 
 # ЗАДАНИЕ 06_songs_list.py
 --------
@@ -111,7 +111,7 @@
 
 
 
-
+<br>
 
 
 # ЗАДАНИЕ 07_secret.py
@@ -128,6 +128,7 @@
 
 
 
+<br>
 
 # ЗАДАНИЕ 08_garden.py
 --------
@@ -144,7 +145,7 @@
 
 
 
-
+<br>
 
 # ЗАДАНИЕ 09_shopping.py
 --------
@@ -159,7 +160,7 @@
 
 
 
-
+<br>
 
 # ЗАДАНИЕ 10_store.py
 --------
@@ -175,5 +176,34 @@
 
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
+# Шпаргалку по работе с командами git
+-----
+### Вот список основных команд, которые чаще всего используются в работе:
+- #### git clone <адрес_репозитория> #создает локальную копию удаленного Git-репозитория
+- #### git add . #сохраняет текущее состояние проекта в истории коммитов
+- #### git commit -m "комментарий к комиту" #комментарий к коммиту
+- #### git status #отображает состояние рабочего каталога и раздела проиндексированных файлов
+- #### git push #позволяет отправлять локальную ветку на удаленный репозиторий
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Список использованных источников:
+-----
+1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+2. [The Python Tutorial](https://docs.python.org/3/tutorial/)
+3. [Язык разметки Markdown](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)
 
