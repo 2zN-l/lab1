@@ -25,7 +25,7 @@
 5. Аналогично для другой точки (point_2)
 
 ###### Результат:
-<img width="137" height="74" alt="image" src="https://github.com/user-attachments/assets/eeebf390-6ca5-41a1-8e56-2730d416be2b" />
+<img width="171" height="68" alt="image" src="https://github.com/user-attachments/assets/8c6692a0-5ff8-4b8e-be3d-5cc5c9afc7e2" />
 
 
 
