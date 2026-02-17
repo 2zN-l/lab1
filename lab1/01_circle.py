@@ -26,8 +26,8 @@ point_1 = (23, 34)
 #       операции сравнения дают булевы константы True и False
 # TODO здесь ваш код
 
-len1=(23**2+32**2)**(1/2)
-if len1>radius:
+len1=(23**2+34**2)**(1/2)
+if len1<radius:
     print("True")
 else:
     print("False")
