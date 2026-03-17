@@ -17,7 +17,7 @@ for song in violator_songs_list:
 
 time_total= round(time1, 2)
 
-print(f"Три песни звучат {time_total} минут")
+
 
 violator_songs_dict = {
     'World in My Eyes': 4.76,
@@ -38,4 +38,8 @@ for song2 in ['Sweetest Perfection', 'Policy of Truth', 'Blue Dress']:
         time2 += violator_songs_dict[song2]
 
 total_time2 = int(time2)
-print(f"А другие три песни звучат {total_time2} минут")
+
+
+def task_6():
+    print(f"Три песни звучат {time_total} минут")
+    print(f"А другие три песни звучат {total_time2} минут")

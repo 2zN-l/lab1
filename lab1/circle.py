@@ -13,7 +13,7 @@ def length_comparison (point, radius = RADIUS):
 
 point_1 = (23, 34)
 point_2 = (30, 30)
-
-print(calculate_area())
-print(length_comparison(point_1))
-print(length_comparison(point_2))
+def task_1():
+    print(calculate_area())
+    print(length_comparison(point_1))
+    print(length_comparison(point_2))

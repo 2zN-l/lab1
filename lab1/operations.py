@@ -1,6 +1,3 @@
-result = (1 + 2) * 3
-print(result)
-
 
 def find_expression():
     for a in ['+', '-', '*']:
@@ -15,4 +12,3 @@ def find_expression():
                         pass
 
 
-find_expression()
